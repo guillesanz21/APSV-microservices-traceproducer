@@ -1,0 +1,12 @@
+2022.12.28 15:49:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/guille/master/apsv/microservicios/traceproducer/.metals/lsp.trace.json or /home/guille/.cache/metals/lsp.trace.json[0m
+2022.12.28 15:49:10 INFO  logging to file /home/guille/master/apsv/microservicios/traceproducer/.metals/metals.log[0m
+2022.12.28 15:49:10 INFO  Started: Metals version 0.11.9 in workspace '/home/guille/master/apsv/microservicios/traceproducer' for client Visual Studio Code 1.74.2.[0m
+2022.12.28 15:49:13 INFO  time: initialize in 3.06s[0m
+Dec 28, 2022 3:49:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Dec 28, 2022 3:49:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2022.12.28 15:49:16 WARN  Build server is not auto-connectable.[0m
+2022.12.28 15:49:16 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/prueba/TraceProducerApplicationTests.java[0m
+2022.12.28 15:49:18 INFO  time: code lens generation in 1.58s[0m
+2022.12.28 15:49:18 INFO  time: code lens generation in 1.86s[0m
