@@ -10,3 +10,13 @@ WARNING: Unmatched cancel notification for request id 2
 2022.12.28 15:49:16 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/prueba/TraceProducerApplicationTests.java[0m
 2022.12.28 15:49:18 INFO  time: code lens generation in 1.58s[0m
 2022.12.28 15:49:18 INFO  time: code lens generation in 1.86s[0m
+2022.12.28 15:56:58 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/main/java/es/upm/dit/apsv/traceproducer/TraceProducerApplication.java[0m
+2022.12.28 15:58:57 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/traceproducer/TraceProducerApplicationTests.java[0m
+2022.12.28 15:58:57 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/traceproducer/TraceProducerApplicationTests.java[0m
+2022.12.28 15:58:58 INFO  time: code lens generation in 1.08s[0m
+Dec 28, 2022 4:00:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+2022.12.28 16:00:41 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/traceproducer/TraceProducerApplicationTests.java[0m
+2022.12.28 16:00:45 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/traceproducer/TraceProducerApplicationTests.java[0m
+2022.12.28 16:00:56 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/traceproducer/TraceProducerApplicationTests.java[0m
+2022.12.28 16:00:57 WARN  no build target for: /home/guille/master/apsv/microservicios/traceproducer/src/test/java/es/upm/dit/apsv/traceproducer/TraceProducerApplicationTests.java[0m
